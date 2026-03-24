@@ -1,0 +1,16 @@
+{
+  "name": "shweta-gupta-portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio website for Shweta Gupta – Manager, Quality Control",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["portfolio", "pharmaceutical", "quality-control"],
+  "author": "Shweta Gupta",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
