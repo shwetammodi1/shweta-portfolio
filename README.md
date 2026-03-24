@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shweta Gupta – Portfolio Website
 
 Professional portfolio for **Shweta Gupta**, Manager – Quality Control, Cipla Limited.
@@ -60,3 +61,7 @@ Shweta Gupta/
 └── images/
     └── shweta-gupta.jpg ← Profile photo
 ```
+=======
+# shweta-portfolio
+Portfolio website project
+>>>>>>> be35c2da0af399ad41eace517056cdcba650625f
