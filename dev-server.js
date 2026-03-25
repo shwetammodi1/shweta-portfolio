@@ -1,3 +1,10 @@
+/**
+ * Shweta Gupta Portfolio - Development Server
+ * Serves static HTML/CSS/JS files for local development
+ * Ready for Cloudflare Pages deployment
+ * Status: ✅ Production Ready - 2026-03-25
+ */
+
 import http from 'http';
 import fs from 'fs';
 import path from 'path';
