@@ -6,7 +6,7 @@
     "dev": "node dev-server.js",
     "start": "node dev-server.js"
   },
-  "keywords": ["portfolio", "pharmaceutical", "quality-control", "hono"],
+  "keywords": ["portfolio", "pharmaceutical", "quality-control"],
   "author": "Shweta Gupta",
   "license": "UNLICENSED",
   "dependencies": {},
