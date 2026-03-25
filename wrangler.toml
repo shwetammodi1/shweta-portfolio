@@ -2,14 +2,18 @@ name = "shweta-portfolio"
 type = "javascript"
 account_id = ""
 workers_dev = true
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
 
 [build]
-command = ""
+command = "npm run build"
 cwd = "./"
-watch_paths = []
+
+[build.upload]
+format = "service-worker"
 
 [env.production]
 name = "shweta-portfolio"
-routes = [
-  { pattern = "*", zone_name = "" }
-]
+routes = []
+vars = { ENVIRONMENT = "production" }
+

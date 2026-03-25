@@ -7,3 +7,12 @@ build/
 *.log
 .env
 .env.local
+.env*.local
+dist-src/
+worker/
+*.tsbuildinfo
+.turbo/
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
